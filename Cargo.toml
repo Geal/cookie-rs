@@ -14,7 +14,7 @@ similar to Rails' cookie jar.
 
 [features]
 default = []
-secure = ["openssl", "rustc-serialize"]
+secure = []
 
 [dependencies]
 url = "0.2"
