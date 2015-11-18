@@ -14,7 +14,6 @@ similar to Rails' cookie jar.
 
 [features]
 default = []
-secure = []
 
 [dependencies]
 url = "0.2"
